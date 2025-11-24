@@ -1,7 +1,0 @@
-Backend/.env
-
-# Logs and dependencies
-node_modules/
-npm-debug.log
-.DS_Store
-
